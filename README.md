@@ -1,7 +1,7 @@
 <h1 align="center">🌷 Hi there, I'm YOU-RI 🌷</h1>
 
 <p align="center">
-  <em>A curious mind exploring <strong>robots, AI, and all things creative 🤖💡</strong></em><br>
+  <em>A curious Engineer exploring <strong>robots, AI, and all things creative 🤖💡</strong></em><br>
   <em>Currently studying @ <strong>Technical University of Munich 🇩🇪</strong></em><br>
   <em>Werkstudent @ <strong>Freudenberg Group – Klüber Lubrication | IT Infrastructure</strong> 💻</em>
 </p>
