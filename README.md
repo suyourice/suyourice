@@ -19,7 +19,7 @@
 ### 🧠 What I'm up to
 
 - 🧩 Simulation for **Legged Robot Locomotion**
-- 🦾 Exploring **Humanoid Robot Control**, **Multi-Sensory Based Robot Manipulation**, **Dexterous Grasping** and **Simulation Learning**
+- 🦾 Exploring **Humanoid Robot Control**, **Multi-Sensory Based Robot Manipulation**
 - 📚 Diving deep into **Optimization, Reinforcement Learning, and Control Theory**
 
 ---
