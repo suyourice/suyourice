@@ -39,15 +39,6 @@ Robotics student
 
 ---
 
-### Activity
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=suyourice&show_icons=true&count_private=true&hide_title=true&hide_rank=true&theme=dark" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suyourice&layout=compact&hide=html,css,jupyter%20notebook&theme=dark" />
-</p>
-
----
-
 ### Learning
 
 - Reinforcement learning  
